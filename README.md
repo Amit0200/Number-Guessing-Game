@@ -1,2 +1,2 @@
 # Number-Guessing-Game
-Number guessing game in C++
+Number guessing game using srand() and rand() function.
